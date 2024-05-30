@@ -14,13 +14,22 @@
 
 1. On the AWS Console, start by searching and choosing SageMaker
 
+<img width="1438" alt="Screen Shot 2024-05-29 at 12 38 47 PM" src="https://github.com/Xalmonte/Build-a-Question-answering-Bot-using-Generative-AI/assets/169603464/e7c24d3c-3193-44d9-8b23-a34f14c0feef">
+
 2. On the left hand side, under Inference, choose Endpoint configurations
 
-3. I chose sagemaker-flan-Endpointconfig.
+<img width="1438" alt="Real step 2" src="https://github.com/Xalmonte/Build-a-Question-answering-Bot-using-Generative-AI/assets/169603464/4db30268-3389-4df2-bc30-c9d42ef65322">
+
+3. I then chose sagemaker-flan-Endpointconfig.
+
+<img width="1438" alt="Real step 3" src="https://github.com/Xalmonte/Build-a-Question-answering-Bot-using-Generative-AI/assets/169603464/f54cbd6f-9132-45d1-ba54-3802e86044b5">
 
 4. Scroll down to variants section  to ensure it has been deployed (lab ready)
 
+<img width="1438" alt="Real step 5" src="https://github.com/Xalmonte/Build-a-Question-answering-Bot-using-Generative-AI/assets/169603464/cf6d8527-ee96-49e3-ac75-bc8a0b4664e8">
+
 5. On the left hand side, under Inference, choose Endpoints again and confirm that QuestionAnswerBotEndPoint is listed as InService
+
 
 6. I opened a new browser and on the AWS Console, I searched and chose Kendra
 
